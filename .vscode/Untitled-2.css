@@ -1,0 +1,18 @@
+
+body{background-color: #E27D60 ;}
+*{
+ box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.column {padding: 10px;}
+img { 
+    float: right ;
+     
+    margin: 5px; 
+  }
+  
